@@ -15,7 +15,7 @@ def translate(w):
         else:
             return "We didnt uncerstand your query"
     else:
-        return "The word does not exist."
+        return "The word does not exist.PLease double check your word"
 
         
 
